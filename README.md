@@ -1,0 +1,13 @@
+# Balloon Pop Game (Scratch)
+
+A reflex-based balloon pop game made in Scratch.
+
+## How to play
+- Pop the balloons as fast as you can!
+- Score points before time runs out.
+
+## Download
+Click the link below to download the `.sb3` file and open it in 
+
+## Screenshot
+
